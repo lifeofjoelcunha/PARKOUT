@@ -42,8 +42,8 @@ No "Car Jam", cada autocarro possui uma cor, capacidade limitada e movimenta-se 
 
 1. **Clona o repositório:**
     ```sh
-    git clone https://github.com/teu-usuario/teu-repo-car-jam.git
-    cd teu-repo-car-jam
+    git clone (https://github.com/lifeofjoelcunha/PARKOUT.git)
+
     ```
 
 2. **Instala as dependências:**
